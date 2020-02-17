@@ -124,7 +124,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>1</value>
+      <value>0</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -205,7 +205,7 @@
     </param>
     <param>
       <key>_enabled</key>
-      <value>0</value>
+      <value>1</value>
     </param>
     <param>
       <key>_coordinate</key>
@@ -823,7 +823,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>Rb*Sps</value>
+      <value>Rs*Sps</value>
     </param>
   </block>
   <block>
@@ -873,7 +873,7 @@
     <key>analog_noise_source_x</key>
     <param>
       <key>amp</key>
-      <value>0.5</value>
+      <value>0.35</value>
     </param>
     <param>
       <key>alias</key>
@@ -1659,7 +1659,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(616, 220)</value>
+      <value>(624, 220)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -1981,7 +1981,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(368, 476)</value>
+      <value>(368, 452)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2043,7 +2043,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(624, 156)</value>
+      <value>(632, 156)</value>
     </param>
     <param>
       <key>_rotation</key>
