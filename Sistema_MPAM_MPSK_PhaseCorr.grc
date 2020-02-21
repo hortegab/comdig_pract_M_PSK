@@ -140,7 +140,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>digital.constellation_bpsk().points()</value>
+      <value>1.+0j,  -1.-0.j</value>
     </param>
   </block>
   <block>
@@ -182,7 +182,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(1520, 148)</value>
+      <value>(1640, 148)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -222,6 +222,60 @@
     <param>
       <key>value</key>
       <value>digital.constellation_8psk().points()</value>
+    </param>
+  </block>
+  <block>
+    <key>variable</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(1520, 148)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>Constelacion</value>
+    </param>
+    <param>
+      <key>value</key>
+      <value>1.+0j,  0.+1.j,  -1.-0.j,  0.-1.j</value>
+    </param>
+  </block>
+  <block>
+    <key>variable</key>
+    <param>
+      <key>comment</key>
+      <value></value>
+    </param>
+    <param>
+      <key>_enabled</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>_coordinate</key>
+      <value>(1832, 148)</value>
+    </param>
+    <param>
+      <key>_rotation</key>
+      <value>0</value>
+    </param>
+    <param>
+      <key>id</key>
+      <value>Constelacion_0</value>
+    </param>
+    <param>
+      <key>value</key>
+      <value>digital.constellation_bpsk().points()</value>
     </param>
   </block>
   <block>
